@@ -4,6 +4,12 @@
 
 ---
 
+## 🎬 Demo
+
+https://github.com/user-attachments/assets/07d8e46c-3b32-41d5-901c-8c6ef9cc5483
+
+---
+
 ## ✨ What Is This?
 
 This tool lets you describe a Rocket.Chat use case in plain English and instantly receive a fully compiled, production-ready MCP server that exposes only the API capabilities relevant to your workflow. The generated server can be plugged directly into any MCP host — **Claude Desktop**, **Cursor**, or any custom agent.
