@@ -226,7 +226,7 @@ The generated `out-mcp/build/server.js`:
 
 ---
 
-## 🔮 Roadmap (GSoC 2025)
+## 🔮 Roadmap (GSoC 2026)
 
 - [ ] **Phase 1:** Full OpenAPI AST coverage (all 300+ Rocket.Chat endpoints)
 - [ ] **Phase 2:** Name-to-ID resolver tools (`channels_list`, `users_info`) for seamless natural language operation
